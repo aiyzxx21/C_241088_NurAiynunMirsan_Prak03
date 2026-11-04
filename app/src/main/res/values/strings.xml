@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">prak3</string>
+    <string name="judul_mahasiswa">Data Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="nomor_hp">Nomor HP</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+    <string name="daftar_mahasiswa">Daftar Mahasiswa</string>
+    <string name="petunjuk_mahasiswa">Ketuk baris untuk mengubah, tekan lama untuk menghapus</string>
+
+</resources>
